@@ -1,0 +1,12 @@
+Group A:
+Project ID: 11 | Project Name: Erfre | Category: A | Team Members: Fvdv, Gvgfv | Description: Fdv | Country: Fdfbgfb
+
+Group B:
+Project ID: 22 | Project Name: Fbfgb | Category: B | Team Members: Rferg, Errfg | Description: Fvfdgf | Country: Ghgf
+
+Group C:
+Project ID: 33 | Project Name: Bfn | Category: C | Team Members: Gefgb, Gdfg, Gggv | Description: Egfg | Country: Ghnhgn
+
+Group D:
+Project ID: 44 | Project Name: Bnhn | Category: D | Team Members: Rggf ,grbvdh | Description: Hbnhtnnh | Country: Htrntn
+

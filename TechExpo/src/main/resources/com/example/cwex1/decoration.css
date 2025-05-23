@@ -1,0 +1,92 @@
+.backgroundim {
+    -fx-background-image: url("homepic.jpeg");
+}
+
+.navbtn {
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+    -fx-background-color: linear-gradient(to bottom left, springgreen, darkslategray);
+    -fx-font-weight: bold;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.2), 10, 0.5, 0, 0);
+}
+
+.redbtn {
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+    -fx-background-color: linear-gradient(to bottom left, orangered, darkred);
+    -fx-font-weight: bold;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.2), 10, 0.5, 0, 0);
+}
+
+.navbtn:hover {
+    -fx-background-color: linear-gradient(to bottom left, darkslategray, springgreen);
+}
+
+.redbtn:hover {
+    -fx-background-color: linear-gradient(to bottom left, darkred, orangered);
+}
+
+
+.navbar {
+    -fx-background-color: linear-gradient(to bottom left, #08082e, #11115c);
+}
+
+.hometopic {
+    -fx-background-color: linear-gradient(to bottom left, deepskyblue, darkslategray);
+    -fx-font-weight: bold;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.2), 10, 0.5, 0, 0);
+}
+
+.projectbtn {
+    -fx-background-color: linear-gradient(to bottom left, olivedrab, palegreen);
+    -fx-font-weight: bold;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.2), 10, 0.5, 0, 0);
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+}
+.topicPane {
+    -fx-background-radius: 10px;
+    -fx-background-color: purple;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.2), 10, 0.5, 0, 0);
+}
+
+.imagePane {
+    -fx-background-color: white;
+}
+.eneterbtn {
+    -fx-background-color: linear-gradient(to bottom left, olive, goldenrod);
+    -fx-font-weight: bold;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+}
+.eneterbtn:hover {
+    -fx-background-color: #9fd840;
+}
+
+.tablePane {
+    -fx-background-color: tan;
+}
+
+.delbtn {
+    -fx-background-color: crimson;
+    -fx-font-weight: bold;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+}
+.delbtn:hover {
+    -fx-background-color: #fa7171;
+}
+.barchartpane {
+    -fx-background-color: seagreen;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+}
+.chart-axis {
+    -fx-tick-label-font-size: 15px;
+    -fx-tick-label-fill: black;
+}
+.chart-title {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: black;
+}
